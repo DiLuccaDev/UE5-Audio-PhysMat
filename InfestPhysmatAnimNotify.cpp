@@ -1,3 +1,5 @@
+// Copyright (C) 2025 Atom Switch, Inc.
+
 #include "InfestPhysmatAnimNotify.h"
 #include "Character\InfestCharacter.h"
 #include "Components\CapsuleComponent.h"
