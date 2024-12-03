@@ -1,3 +1,5 @@
+// Copyright (C) 2025 Atom Switch, Inc.
+
 #include "Gameplay/InfestPhysmatEffectDataTableRow.h"
 #include "GameplayCueManager.h"
 
